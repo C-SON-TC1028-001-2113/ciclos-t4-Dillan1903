@@ -12,4 +12,7 @@ def main():
                     if i%2==0 :
                         print(i)
         else:
-            print('No hay pares')
+            print('No hay pares') 
+
+if __name__=='__main__':
+    main()
